@@ -1,19 +1,19 @@
 {
   "name": "YouTube",
   "short_name": "YouTube",
-  "start_url": "/Youtub_pwa/",
+  "start_url": "/",
   "scope": "/Youtub_pwa/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ff0000"
+  "theme_color": "#ff0000",
   "icons": [
     {
-      "src": "android-chrome-192x192.png",
-      "sizes":"192x192",
+      "src": "apple-touch-icon.png",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "android-chrome-512x512.png",
+      "src": "apple-touch-icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
