@@ -1,10 +1,11 @@
 {
   "name": "YouTube",
   "short_name": "YouTube",
-  "start_url": "index.html",
+  "start_url": "/Youtub_pwa/",
+  "scope": "/Youtub_pwa/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ff0000",
+  "theme_color": "#ff0000"
   "icons": [
     {
       "src": "android-chrome-192x192.png",
